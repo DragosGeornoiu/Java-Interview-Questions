@@ -48,7 +48,7 @@ No. Doing so will result compilation error.
 ### Why an interface cannot have a constructor?
 Inside an interface, a constructor cannot be called using super keyword with hierarchy.
 
-###Why an Interface can extend more than one Interface but a Class can’t extend more than one Class?
+### Why an Interface can extend more than one Interface but a Class can’t extend more than one Class?
 We know that Java doesn't allow multiple inheritance, but an Interface is a pure abstraction model. 
 It does not have inheritance hierarchy like classes, therefore, an interface is allowed to extend more than 
 one interface.
